@@ -19,7 +19,7 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 http://localhost:8080/api/v1/beers
 ```
 
-São necessários os seguintes pré-requisitos para a execução do projeto:
+Pré-requisitos para a execução do projeto:
 
 * Java 14 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
